@@ -32,27 +32,31 @@
         "descriptionText": "CBD Stickers and product labels"
       }]
     },{
-      "slug": "incense-boxes",
-      "id": "incense-boxes",
-      "productTitle": "Custom Incense Box Packaging",
+      "slug": "cbd-extract-boxes",
+      "id": "cbd-extract-boxes",
+      "productTitle": "Custom CBD Extract Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776596CBD-Extract-Boxes-03.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776597CBD-Extract-Boxes-05.png-gallery3"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style"
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Dimensions",
-        "detail": "Custom Sizes Available"
+        "detail": "All Sizes Available"
       },{
         "name": "Quantity",
         "detail": "50"
       }],
       "relatedProducts": [{
-        "slug": "bath-bomb-boxes",
-        "productTitle": "Bath Bomb Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "cannabis-blunt-boxes",
+        "productTitle": "Cannabis Blunt Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
+      }],
+      "description": [{
+        "descriptionHeading": "How Custom CBD Stickers ",
+        "descriptionText": "CBD Stickers and product labels"
       }]
     },{
       "slug": "kraft-window-boxes",
