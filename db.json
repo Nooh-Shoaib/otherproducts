@@ -79,60 +79,68 @@
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
       }]
     },{
-      "slug": "cardboard-box-with-handles",
-      "id": "cardboard-box-with-handles",
-      "productTitle": "Cardboard Box with Handles",
-      "description": "",
+      "slug": "custom-cigarette-boxes",
+      "id": "custom-cigarette-boxes",
+      "productTitle": "Custom Cigarette Boxes",
+       "description": [{
+        "descriptionHeading": "Attractive Custom Cigarette Boxes",
+        "descriptionText": "Everyone is saying that smoking is injurious to health"
+      }],
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776966Custom-Cigarette-Boxes-SirePrinting%2003.png-gallery2"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "One Piece Mailer Box  Style"
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Quantity",
         "detail": "50"
       }],
       "relatedProducts": [{
-        "slug": "small-mailer-boxes",
-        "productTitle": "Small Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "cbd-pre-rolls-boxes",
+        "productTitle": "CBD Pre Rolls Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627835995Pre-Rolls-Boxes-SirePrinting%2001.png"
       },{
-        "slug": "one-piece-mailer-boxes",
-        "productTitle": "One Piece Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+        "slug": "pod-vape-boxes",
+        "productTitle": "Pod Vape Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627836715Pod-Vape-Boxes-SirePrinting%2001.png"
+      }],
+      "relatedBlogs": [{
+        "slug": "",
+        "blogTitle": "Unveiling The Ultimate Pre Roll Packaging Solutions!",
+        "blogdate": "02 Nov",
+        "blogtext": "In the world of cannabis and tobacco products, packaging plays a significant role in brand recognition, product protection...",
+        "bloglink": " CBD Packaging",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1697676820-unveiling-the-ultimate-pre-roll-packaging-solutions.avif"
       }]
     },{
-      "slug": "cbd-bath-bomb-boxes",
-      "id": "cbd-bath-bomb-boxes",
-      "productTitle": "Custom CBD Bath Bomb Boxes",
+      "slug": "cannabis-blunt-boxes",
+      "id": "cannabis-blunt-boxes",
+      "productTitle": "Custom Cannabis Blunt Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-04.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2002.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627777706Cannabis--Blunt-Boxes-SirePrinting%2003.png-gallery2"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Pop Display Style, Seal End, Bakery Style."
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Quantity",
         "detail": "50"
       }],
-        "relatedPortfolio": [
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
-    ],
       "relatedProducts": [{
-        "slug": "cannabis-perfume-boxes",
-        "productTitle": "Cannabis Perfume Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778644Cannabis-Perfume-Boxes-SirePrinting-01.png"
+        "slug": "cbd-bath-bomb-boxes",
+        "productTitle": "CBD Bath Bomb Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627776386CBD-Bath-Bomb-Boxes-01.png"
       },{
-        "slug": "medical-cannabis-boxes",
-        "productTitle": "Medical Cannabis Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627832313Medical-Cannabis-Boxes-SirePrinting%2001.png"
+        "slug": "Custom Hemp Boxes",
+        "productTitle": "Custom Hemp Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627831230Custom-Hemp-Boxes-SirePrinting%2001.png"
       }],
        "description": [{
-        "descriptionHeading": "Enticing CBD Essential",
-        "descriptionText": " consists of various choices"
+        "descriptionHeading": "Blunt Boxes",
+        "descriptionText": "Snuff ends the craving of smokers by relaxing their brains and alleviating the worry. "
       }],
       "relatedBlogs": [{
         "slug": "",
