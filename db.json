@@ -59,24 +59,24 @@
         "descriptionText": "CBD Stickers and product labels"
       }]
     },{
-      "slug": "kraft-window-boxes",
-      "id": "kraft-window-boxes",
-      "productTitle": "Kraft Boxes with Window",
+      "slug": "custom-tincture-boxes",
+      "id": "custom-tincture-boxes",
+      "productTitle": "Custom Tincture Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664588403Kraft%20Window%20Boxes%20Sire%20Printing%2002.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-01.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627776830SirePrinting-Tincture-Boxes-04.png-gallery3"
       ],
       "specifications": [{
         "name": "Box Style",
         "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Dimensions",
-        "detail": "Custom Sizes Available"
+        "detail": "All Sizes Available"
       }],
       "relatedProducts": [{
-        "slug": "kraft-rigid-boxes",
-        "productTitle": "Kraft Rigid Boxes",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601679264/Kraft%20Rigid%20Boxes.png"
+        "slug": "cannabis-blunt-boxes",
+        "productTitle": "Cannabis Blunt Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627777676Cannabis--Blunt-Boxes-SirePrinting%2001.png"
       }]
     },{
       "slug": "cardboard-box-with-handles",
