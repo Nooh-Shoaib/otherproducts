@@ -1,30 +1,35 @@
 {
    "products": [
    {
-      "slug": "kraft-cereal-boxes",
-      "id": "kraft-cereal-boxes",
-      "productTitle": "kraft-cereal-boxes",
+      "slug": "cbd-stickers",
+      "id": "cbd-stickers",
+      "productTitle": "Custom CBD Stickers & Labels",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-02.png-gallery1"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Seal End, Gable Style, Pop Display Style"
+        "detail": ""
       },{
         "name": "Dimensions",
-        "detail": "Custom Sizes Available"
+        "detail": "All Sizes Available"
       },{
         "name": "Quantity",
-        "detail": "50"
+        "detail": "100"
       }],
       "relatedProducts": [{
-        "slug": "cereal-boxes",
-        "productTitle": "Cereal Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1645126269Cereal-Boxes-Sire-Printing-01.png"
+        "slug": "clear-stickers",
+        "productTitle": "Clear Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
       },{
-        "slug": "crepe-cone-holders",
-        "productTitle": "Crepe Cone Holders",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941376Paperboard-Crepe-Cones-Sire-Printing-02.png"
+        "slug": "custom-vinyl-stickers",
+        "productTitle": "Custom Vinyl Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632943546Custom%20Vinyl%20Stickers%20Sire%20Printing%2001.png"
+      }],
+       "description": [{
+        "descriptionHeading": "How Custom CBD Stickers ",
+        "descriptionText": "CBD Stickers and product labels"
       }]
     },{
       "slug": "incense-boxes",
