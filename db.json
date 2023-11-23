@@ -141,38 +141,37 @@
        "description": [{
         "descriptionHeading": "Blunt Boxes",
         "descriptionText": "Snuff ends the craving of smokers by relaxing their brains and alleviating the worry. "
-      }],
-      "relatedBlogs": [{
-        "slug": "",
-        "blogTitle": "Custom Bath Bomb Packaging Boxes Enhance Your Sales With Style",
-        "blogdate": "12 Mar",
-        "blogtext": "Bath bombs are concentrated foam baths made from a combination of wet and dry components such as essential...",
-        "bloglink": "Custom Retail Packaging",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/blogs/1647044404Bath.png"
       }]
     },{
-      "slug": "cardboard-box-with-handles",
-      "id": "cardboard-box-with-handles",
-      "productTitle": "Cardboard Box with Handles",
+      "slug": "cannabis-display-boxes",
+      "id": "cannabis-display-boxes",
+      "productTitle": "Custom Cannabis Display Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-04.png-gallery3",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778531Cannabis-Display-Boxes-05.png-gallery4"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "One Piece Mailer Box  Style"
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Quantity",
         "detail": "50"
       }],
       "relatedProducts": [{
-        "slug": "small-mailer-boxes",
-        "productTitle": "Small Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "cbd-gummies-boxes",
+        "productTitle": "CBD Gummies Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1602200995/cbd-gummies-boxes.png"
       },{
-        "slug": "one-piece-mailer-boxes",
-        "productTitle": "One Piece Mailer Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+        "slug": "cbd-chocolate-boxes",
+        "productTitle": "CBD Chocolate Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640139160CBD%20Chocolate%20Boxes%20Sire%20Printing%2001.png"
+      }],
+        "relatedPortfolio": [
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697594876-cbd-gummies-display-boxes-sire-printing.avif"
+    ],
+       "description": [{
+        "descriptionHeading": "Shiny And Glossy Custom Cannabis Display Boxes ",
+        "descriptionText": "Custom Cannabis Boxes play a vital role in product sales and purchase."
       }]
     }
   ]
