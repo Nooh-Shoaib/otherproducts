@@ -173,6 +173,34 @@
         "descriptionHeading": "Shiny And Glossy Custom Cannabis Display Boxes ",
         "descriptionText": "Custom Cannabis Boxes play a vital role in product sales and purchase."
       }]
+    },{
+      "slug": "cannabis-perfume-boxes",
+      "id": "cannabis-perfume-boxes",
+      "productTitle": "Custom Cannabis Perfume Boxes",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778645Cannabis-Perfume-Boxes-SirePrinting-02.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1627778645Cannabis-Perfume-Boxes-SirePrinting-04.png-gallery3"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "raw-cbd-oil-boxes",
+        "productTitle": "Raw CBD Oil Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640226703Raw%20CBD%20Oil%20Box%20Packaging%20Sire%20Printing%2001.png"
+      },{
+        "slug": "custom-cbd-salve-boxes",
+        "productTitle": "Custom CBD Salve Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878086CBD-Salve-Boxes-Sire-Printing-04.png"
+      }],
+       "description": [{
+        "descriptionHeading": "Get High-Quality Custom Printed Cannabis Perfume Boxes",
+        "descriptionText": "If you want High-quality Custom Cannabis Perfume Boxes"
+      }]
     }
   ]
 }
